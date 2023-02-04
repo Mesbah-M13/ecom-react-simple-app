@@ -1,3 +1,9 @@
+# E Commerce React Redux Toolkit Site
+A web app to buy products from different categories.
+
+[Live Website](https://rad-sunshine-03d815.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
